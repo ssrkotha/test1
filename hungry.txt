@@ -1,2 +1,5 @@
 i am hungry
 ill eat biryani and samosa
+
+i am thirsty 
+ill drink  water
