@@ -1,2 +1,8 @@
-i am hungry
+i am hungr
 ill eat biryani ,samosa, pizza
+
+else 
+
+i am thirsty 
+ill drink  water and soda
+
