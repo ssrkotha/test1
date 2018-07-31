@@ -1,6 +1,2 @@
-i am hungry so:
-
-ill eat biryani 
-samosa
-pizza
-
+i am hungry
+ill eat biryani and samosa
